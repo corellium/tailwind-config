@@ -1,7 +1,7 @@
 {
   "name": "@corellium/tailwind-config",
   "version": "1.0.0",
-  "description": "Custom tailwind configuration (magic theme)",
+  "description": "Our very own ESLint configuration!",
   "main": "index.js",
   "scripts": {
     "release": "auto shipit --base-branch=main",
