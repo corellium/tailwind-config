@@ -1,0 +1,31 @@
+{
+  "name": "@corellium/tailwind-config",
+  "version": "1.0.0",
+  "description": "Custom tailwind configuration (magic theme)",
+  "main": "index.js",
+  "scripts": {
+    "release": "auto shipit --base-branch=main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corellium/tailwind-config.git"
+  },
+  "homepage": "https://github.com/corellium/tailwind-config#readme",
+  "author": "Hayden Bleasel <hello@haydenbleasel.com>",
+  "bugs": {
+    "url": "https://github.com/corellium/tailwind-config/issues"
+  },
+  "license": "ISC",
+  "keywords": [
+    "tailwind",
+    "config",
+    "corellium"
+  ],
+  "devDependencies": {
+    "auto": "^10.32.3"
+  },
+  "dependencies": {
+    "hex-to-rgba": "^2.0.1"
+  }
+}
