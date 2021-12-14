@@ -10,7 +10,6 @@ yarn add -D @corellium/tailwind-config
 
 Make sure that in target project you have [latest version of tailwind](https://github.com/tailwindlabs/tailwindcss/releases) installed.
 
-
 ```sh
 yarn add -D tailwindcss
 ```
