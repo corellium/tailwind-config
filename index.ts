@@ -1,6 +1,6 @@
-const hexToRGBA = require('hex-to-rgba');
+import hexToRGBA from 'hex-to-rgba';
 
-module.exports = {
+const config = {
   theme: {
     screens: {
       sm: '768px',
@@ -378,3 +378,5 @@ module.exports = {
     },
   },
 };
+
+export default config;

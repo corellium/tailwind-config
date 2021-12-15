@@ -2,8 +2,13 @@
   "name": "@corellium/tailwind-config",
   "version": "1.0.0",
   "description": "Our very own ESLint configuration!",
-  "main": "index.js",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "files": [
+    "build"
+  ],
   "scripts": {
+    "package:build": "tsc",
     "release": "auto shipit --base-branch=main",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -26,6 +31,7 @@
     "auto": "^10.32.3"
   },
   "dependencies": {
-    "hex-to-rgba": "^2.0.1"
+    "hex-to-rgba": "^2.0.1",
+    "typescript": "^4.5.4"
   }
 }
