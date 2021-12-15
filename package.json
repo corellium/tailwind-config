@@ -12,6 +12,9 @@
     "release": "auto shipit --base-branch=main",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/corellium/tailwind-config.git"
