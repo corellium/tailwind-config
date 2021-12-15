@@ -292,7 +292,7 @@ const config = {
       xl: '2rem',
       xxl: '2.5rem',
     },
-    boxShadow: (theme) => ({
+    boxShadow: (theme: (val: string) => string) => ({
       border: `inset 0 0 0 1px ${theme('colors.gray.300')}`,
       'border-light': `inset 0 0 0 1px ${theme('colors.gray.200')}`,
       'border-focus': `inset 0 0 0 1px ${theme('colors.primary.300')}`,

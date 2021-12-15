@@ -8,7 +8,7 @@
     "build"
   ],
   "scripts": {
-    "package:build": "tsc",
+    "package:build": "rimraf ./build && tsc",
     "release": "auto shipit --base-branch=main",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -28,7 +28,8 @@
     "corellium"
   ],
   "devDependencies": {
-    "auto": "^10.32.3"
+    "auto": "^10.32.3",
+    "rimraf": "^3.0.2"
   },
   "dependencies": {
     "hex-to-rgba": "^2.0.1",
