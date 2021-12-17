@@ -274,9 +274,9 @@ export const config = {
       'display-xl-desktop': ['3.75rem', '1.2'],
       'display-xxl-desktop': ['4.5rem', '1.25'],
       xs: ['0.75rem', '1.5'],
-      sm: ['0.875rem', '1.5'],
+      sm: ['0.875rem', '1.42857142857'],
       md: ['1rem', '1.5'],
-      lg: ['1.125rem', '1.5'],
+      lg: ['1.125rem', '1.55555555556'],
       xl: ['1.25rem', '1.5'],
     },
     fontWeight: {
