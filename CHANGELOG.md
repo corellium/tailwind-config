@@ -1,3 +1,15 @@
+# v1.0.2 (Fri Dec 17 2021)
+
+#### 🐛 Bug Fix
+
+- fix/line-height-adjustments [#1](https://github.com/corellium/tailwind-config/pull/1) ([@HaydenBarnett](https://github.com/HaydenBarnett))
+
+#### Authors: 1
+
+- Hayden Barnett ([@HaydenBarnett](https://github.com/HaydenBarnett))
+
+---
+
 # v1.0.1 (Wed Dec 15 2021)
 
 #### ⚠️ Pushed to `main`
