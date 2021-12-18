@@ -2,13 +2,18 @@
   "name": "@corellium/tailwind-config",
   "version": "1.0.2",
   "description": "Our very own ESLint configuration!",
-  "main": "build/index.js",
+  "main": "build/cjs/index.js",
   "types": "build/index.d.ts",
+  "type": "module",
+  "exports": {
+    "import": "./build/es/index.js",
+    "require": "./build/cjs/index.js"
+  },
   "files": [
     "build"
   ],
   "scripts": {
-    "package:build": "rimraf ./build && tsc",
+    "package:build": "rimraf ./build && tsc -p ./tsconfig.cjs.json && tsc -p ./tsconfig.es.json",
     "release": "auto shipit --base-branch=main",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

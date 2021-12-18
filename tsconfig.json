@@ -1,13 +1,11 @@
 {
   "compilerOptions": {
     "baseUrl": ".",
-    "module": "CommonJS",
-    "target": "ES5",
     "moduleResolution": "node",
     "esModuleInterop": true,
-    "outDir": "build",
+    "declarationDir": "build",
     "declaration": true
   },
   "include": ["index.ts"],
-  "exclude": ["node_modules"]
+  "exclude": ["node_modules", "build"]
 }
