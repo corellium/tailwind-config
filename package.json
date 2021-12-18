@@ -6,14 +6,14 @@
   "types": "build/index.d.ts",
   "type": "module",
   "exports": {
-    "import": "./build/es/index.js",
-    "require": "./build/cjs/index.js"
+    "import": "./build/index.js",
+    "require": "./build/index.cjs"
   },
   "files": [
     "build"
   ],
   "scripts": {
-    "package:build": "rimraf ./build && tsc -p ./tsconfig.cjs.json && tsc -p ./tsconfig.es.json",
+    "package:build": "rimraf ./build && tsc -p ./tsconfig.cjs.json && tsc -p ./tsconfig.es.json && ./scripts/build.sh",
     "release": "auto shipit --base-branch=main",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
