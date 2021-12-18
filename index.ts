@@ -1,6 +1,6 @@
 import hexToRGBA from 'hex-to-rgba';
 
-export const config = {
+const config = {
   theme: {
     screens: {
       sm: '768px',
@@ -379,3 +379,4 @@ export const config = {
   },
 };
 
+export default config;
