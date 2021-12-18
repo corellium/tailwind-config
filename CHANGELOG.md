@@ -1,3 +1,15 @@
+# v1.0.3 (Sat Dec 18 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Update tsconfig & package exports ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+#### Authors: 1
+
+- Vasyl Semilyak ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+---
+
 # v1.0.2 (Fri Dec 17 2021)
 
 #### 🐛 Bug Fix
