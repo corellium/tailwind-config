@@ -35,7 +35,7 @@ const cjsConfig = {
   input: 'index.ts',
   output: {
     file: 'build/index.cjs',
-    exports: 'named',
+    exports: 'default',
     format: 'commonjs',
     esModule: false,
   },
