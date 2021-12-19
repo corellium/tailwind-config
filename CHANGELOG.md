@@ -1,3 +1,16 @@
+# v1.0.7 (Sun Dec 19 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of github.com:corellium/tailwind-config (vasylsemilyak@Vasyls-MacBook-Pro.local)
+- Update build process (vasylsemilyak@Vasyls-MacBook-Pro.local)
+
+#### Authors: 1
+
+- Vasyl Semilyak (vasylsemilyak@Vasyls-MacBook-Pro.local)
+
+---
+
 # v1.0.6 (Sun Dec 19 2021)
 
 #### ⚠️ Pushed to `main`
