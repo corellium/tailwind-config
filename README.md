@@ -19,12 +19,12 @@ yarn add -D tailwindcss
 In your project root create `tailwind.config.js` file and add theme to the config.
 
 ```js
-const { config } = require('@corellium/tailwind-config');
+const { theme } = require('@corellium/tailwind-config');
 
 module.exports = {
   // By this `theme` filed assingment you will have corellium theme enabled by default
   // https://tailwindcss.com/docs/theme#overriding-the-default-theme
-  theme: config.theme,
+  theme,
   content: [
     // https://tailwindcss.com/docs/content-configuration
   ],
