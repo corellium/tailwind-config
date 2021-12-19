@@ -1,3 +1,15 @@
+# v1.0.9 (Sun Dec 19 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Update README.md ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+#### Authors: 1
+
+- Vasyl Semilyak ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+---
+
 # v1.0.8 (Sun Dec 19 2021)
 
 #### ⚠️ Pushed to `main`
