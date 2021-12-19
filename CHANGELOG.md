@@ -1,3 +1,15 @@
+# v1.0.6 (Sun Dec 19 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Update build process (vasylsemilyak@Vasyls-MacBook-Pro.local)
+
+#### Authors: 1
+
+- Vasyl Semilyak (vasylsemilyak@Vasyls-MacBook-Pro.local)
+
+---
+
 # v1.0.5 (Sat Dec 18 2021)
 
 #### ⚠️ Pushed to `main`
