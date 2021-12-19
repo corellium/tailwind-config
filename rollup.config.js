@@ -1,5 +1,4 @@
 import typescript from 'rollup-plugin-typescript2';
-import commonjs from '@rollup/plugin-commonjs';
 
 const pkg = require('./package.json');
 
@@ -22,10 +21,8 @@ const plugins = [
 const esConfig = {
   input: 'index.ts',
   output: {
-    esModule: true,
     file: 'build/index.js',
-    exports: 'named',
-    format: 'es',
+    format: 'module',
   },
   plugins,
   external: regexesOfPackages,

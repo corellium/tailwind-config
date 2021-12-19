@@ -35,7 +35,6 @@
     "corellium"
   ],
   "devDependencies": {
-    "@rollup/plugin-commonjs": "^21.0.1",
     "auto": "^10.32.3",
     "rimraf": "^3.0.2",
     "rollup": "^2.61.1",
