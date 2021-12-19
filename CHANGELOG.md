@@ -1,3 +1,16 @@
+# v1.0.8 (Sun Dec 19 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of github.com:corellium/tailwind-config ([@unknown4unnamed](https://github.com/unknown4unnamed))
+- Update ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+#### Authors: 1
+
+- Vasyl Semilyak ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+---
+
 # v1.0.7 (Sun Dec 19 2021)
 
 #### ⚠️ Pushed to `main`
