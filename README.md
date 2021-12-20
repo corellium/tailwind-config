@@ -1,3 +1,5 @@
+[![Release](https://github.com/corellium/tailwind-config/actions/workflows/push.yaml/badge.svg)](https://github.com/corellium/tailwind-config/actions/workflows/push.yaml)
+
 # Tailwind Config Corellium
 
 ## Installation
