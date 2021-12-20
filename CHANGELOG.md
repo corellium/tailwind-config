@@ -1,3 +1,15 @@
+# v1.0.10 (Mon Dec 20 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Update build config ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+#### Authors: 1
+
+- Vasyl Semilyak ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+---
+
 # v1.0.9 (Sun Dec 19 2021)
 
 #### ⚠️ Pushed to `main`
