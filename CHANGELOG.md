@@ -1,3 +1,15 @@
+# v1.0.13 (Tue Dec 21 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Add custom plugin ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+#### Authors: 1
+
+- Vasyl Semilyak ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+---
+
 # v1.0.12 (Mon Dec 20 2021)
 
 #### ⚠️ Pushed to `main`
