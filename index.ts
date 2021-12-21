@@ -441,7 +441,6 @@ export const config = {
             ),
             radial-gradient(at 0% 0%, hsl(343deg 100% 76% / 100%) 0, transparent 50%);`,
         },
-
         '.blur-light-sm': {
           'background-color': 'rgb(255 255 255 / var(--tw-bg-opacity))',
           '--tw-bg-opacity': 0.6,
@@ -449,7 +448,6 @@ export const config = {
           '-webkit-backdrop-filter': 'var(--tw-backdrop-filter)',
           'backdrop-filter': 'var(--tw-backdrop-filter)',
         },
-
         '.blur-light-md': {
           'background-color': 'rgb(255 255 255 / var(--tw-bg-opacity))',
           '--tw-bg-opacity': 0.6,
@@ -457,7 +455,6 @@ export const config = {
           '-webkit-backdrop-filter': 'var(--tw-backdrop-filter)',
           'backdrop-filter': ' var(--tw-backdrop-filter)',
         },
-
         '.blur-light-lg': {
           'background-color': 'rgb(255 255 255 / var(--tw-bg-opacity))',
           '--tw-bg-opacity': 0.6,
