@@ -1,5 +1,6 @@
 import hexToRGBA from 'hex-to-rgba';
-import plugin from 'tailwindcss/plugin';
+// NOTE: Need to add .js to fix the issue
+import plugin from 'tailwindcss/plugin.js';
 
 export const config = {
   theme: {
