@@ -1,3 +1,15 @@
+# v1.0.14 (Tue Dec 21 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Code formatting ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+#### Authors: 1
+
+- Vasyl Semilyak ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+---
+
 # v1.0.13 (Tue Dec 21 2021)
 
 #### ⚠️ Pushed to `main`
