@@ -1,4 +1,5 @@
 import hexToRGBA from 'hex-to-rgba';
+import plugin from 'tailwindcss/plugin';
 
 export const config = {
   theme: {
@@ -377,6 +378,145 @@ export const config = {
       },
     },
   },
+  plugins: [
+    plugin(({ addBase, addUtilities, theme }) => {
+      addBase({
+        '*, *::before, *::after': {
+          'box-sizing': 'inherit',
+        },
+        html: {
+          'box-sizing': 'border-box',
+          'line-height': 1.15,
+          'text-size-adjust': '100%',
+        },
+        body: {
+          margin: 0,
+          color: theme('colors.gray.900'),
+          'font-family': theme('fontFamily.text'),
+          '-webkit-font-smoothing': 'antialiased',
+          'text-rendering': 'optimizeLegibility',
+        },
+        'body.dark-magic': {
+          color: theme('colors.white'),
+        },
+        'h1,h2,h3,h4,h5,h6': {
+          'font-family': theme('fontFamily.display'),
+          'letter-spacing': '-0.02em',
+        },
+      });
+      addUtilities({
+        '.gradient-cool': {
+          'background-color': '#9b8afb',
+          'background-image': `radial-gradient(
+            at 60% 17%,
+            hsl(196deg 99% 71% / 100%) 0,
+            transparent 44%
+          ),
+          radial-gradient(at 34% 94%, hsl(299deg 96% 75% / 100%) 0, transparent 56%),
+          radial-gradient(at 51% 41%, hsl(189deg 66% 78% / 100%) 0, transparent 49%),
+          radial-gradient(at 1% 86%, hsl(262deg 62% 63% / 100%) 0, transparent 48%),
+          radial-gradient(at 75% 99%, hsl(241deg 86% 66% / 100%) 0, transparent 54%),
+          radial-gradient(at 23% 76%, hsl(248deg 95% 64% / 100%) 0, transparent 41%),
+          radial-gradient(at 13% 56%, hsl(59deg 61% 64% / 100%) 0, transparent 42%)`,
+        },
+        '.gradient-warm': {
+          'background-color': '#f1a084',
+          'background-image': `radial-gradient(
+              at 40% 20%,
+              hsl(28deg 100% 74% / 100%) 0,
+              transparent 50%
+            ),
+            radial-gradient(at 80% 0%, hsl(189deg 100% 56% / 100%) 0, transparent 50%),
+            radial-gradient(at 0% 50%, hsl(355deg 85% 93% / 100%) 0, transparent 50%),
+            radial-gradient(
+              at 80% 50%,
+              hsl(340deg 100% 76% / 100%) 0,
+              transparent 50%
+            ),
+            radial-gradient(at 0% 100%, hsl(22deg 100% 77% / 100%) 0, transparent 50%),
+            radial-gradient(
+              at 80% 100%,
+              hsl(242deg 100% 70% / 100%) 0,
+              transparent 50%
+            ),
+            radial-gradient(at 0% 0%, hsl(343deg 100% 76% / 100%) 0, transparent 50%);`,
+        },
+
+        '.blur-light-sm': {
+          'background-color': 'rgb(255 255 255 / var(--tw-bg-opacity))',
+          '--tw-bg-opacity': 0.6,
+          '--tw-backdrop-blur': 'blur(0.5rem)',
+          '-webkit-backdrop-filter': 'var(--tw-backdrop-filter)',
+          'backdrop-filter': 'var(--tw-backdrop-filter)',
+        },
+
+        '.blur-light-md': {
+          'background-color': 'rgb(255 255 255 / var(--tw-bg-opacity))',
+          '--tw-bg-opacity': 0.6,
+          '--tw-backdrop-blur': 'blur(1rem)',
+          '-webkit-backdrop-filter': 'var(--tw-backdrop-filter)',
+          'backdrop-filter': ' var(--tw-backdrop-filter)',
+        },
+
+        '.blur-light-lg': {
+          'background-color': 'rgb(255 255 255 / var(--tw-bg-opacity))',
+          '--tw-bg-opacity': 0.6,
+          '--tw-backdrop-blur': 'blur(1.5rem)',
+          '-webkit-backdrop-filter': 'var(--tw-backdrop-filter)',
+          'backdrop-filter': 'var(--tw-backdrop-filter)',
+        },
+        '.blur-light-xl': {
+          'background-color': 'rgb(255 255 255 / var(--tw-bg-opacity))',
+          '--tw-bg-opacity': 0.6,
+          '--tw-backdrop-blur': 'blur(2rem)',
+          '-webkit-backdrop-filter': 'var(--tw-backdrop-filter)',
+          'backdrop-filter': 'var(--tw-backdrop-filter)',
+        },
+        '.blur-light-xxl': {
+          'background-color': 'rgb(255 255 255 / var(--tw-bg-opacity))',
+          '--tw-bg-opacity': 0.6,
+          '--tw-backdrop-blur': 'blur(2.5rem)',
+          '-webkit-backdrop-filter': 'var(--tw-backdrop-filter)',
+          'backdrop-filter': 'var(--tw-backdrop-filter)',
+        },
+        '.blur-dark-sm': {
+          'background-color': 'rgb(52 64 84 / var(--tw-bg-opacity))',
+          '--tw-bg-opacity': 0.6,
+          '--tw-backdrop-blur': ' blur(0.5rem)',
+          '-webkit-backdrop-filter': 'var(--tw-backdrop-filter)',
+          'backdrop-filter': 'var(--tw-backdrop-filter)',
+        },
+        '.blur-dark-md': {
+          'background-color': 'rgb(52 64 84 / var(--tw-bg-opacity))',
+          '--tw-bg-opacity': 0.6,
+          '--tw-backdrop-blur': 'blur(1rem)',
+          '-webkit-backdrop-filter': 'var(--tw-backdrop-filter)',
+          'backdrop-filter': 'var(--tw-backdrop-filter)',
+        },
+        '.blur-dark-lg': {
+          'background-color': 'rgb(52 64 84 / var(--tw-bg-opacity))',
+          '--tw-bg-opacity': 0.6,
+          '--tw-backdrop-blur': 'blur(1.5rem)',
+          '-webkit-backdrop-filter': 'var(--tw-backdrop-filter)',
+          'backdrop-filter': 'var(--tw-backdrop-filter)',
+        },
+        '.blur-dark-xl': {
+          'background-color': 'rgb(52 64 84 / var(--tw-bg-opacity))',
+          '--tw-bg-opacity': 0.6,
+          '--tw-backdrop-blur': 'blur(2rem)',
+          '-webkit-backdrop-filter': 'var(--tw-backdrop-filter)',
+          'backdrop-filter': 'var(--tw-backdrop-filter)',
+        },
+        '.blur-dark-xxl': {
+          'background-color': 'rgb(52 64 84 / var(--tw-bg-opacity))',
+          '--tw-bg-opacity': 0.6,
+          '--tw-backdrop-blur': 'blur(2.5rem)',
+          '-webkit-backdrop-filter': 'var(--tw-backdrop-filter)',
+          'backdrop-filter': 'var(--tw-backdrop-filter)',
+        },
+      });
+    }),
+  ],
 };
 
 export default { config };
