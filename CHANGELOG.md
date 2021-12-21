@@ -1,3 +1,16 @@
+# v1.0.15 (Tue Dec 21 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of github.com:corellium/tailwind-config ([@unknown4unnamed](https://github.com/unknown4unnamed))
+- Update blurs ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+#### Authors: 1
+
+- Vasyl Semilyak ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+---
+
 # v1.0.14 (Tue Dec 21 2021)
 
 #### ⚠️ Pushed to `main`
