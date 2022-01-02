@@ -1,3 +1,22 @@
+# v1.0.17 (Sun Jan 02 2022)
+
+#### ⚠️ Pushed to `main`
+
+- Reformat new grays as lowercase ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix default gray ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update gray colour palette ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### 🔩 Dependency Updates
+
+- Bump rollup from 2.61.1 to 2.62.0 [#2](https://github.com/corellium/tailwind-config/pull/2) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
 # v1.0.16 (Tue Dec 21 2021)
 
 #### ⚠️ Pushed to `main`
