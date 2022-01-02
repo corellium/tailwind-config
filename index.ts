@@ -18,7 +18,7 @@ export const config = {
       white: '#fff',
       black: '#000',
       gray: {
-        DEFAULT: '#475467',
+        DEFAULT: '#5E6673',
         25: '#fcfcfd',
         50: '#f9fafb',
         100: '#f2f4f7',
