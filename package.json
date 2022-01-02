@@ -1,6 +1,6 @@
 {
   "name": "@corellium/tailwind-config",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "Our very own ESLint configuration!",
   "main": "build/index.js",
   "types": "build/index.d.ts",
