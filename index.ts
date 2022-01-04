@@ -295,6 +295,7 @@ export const config = {
       xxl: '2.5rem',
     },
     boxShadow: (theme: (val: string) => string) => ({
+      '4-primary-600': `0 0 0 0.25rem ${theme('colors.primary.600')}`,
       border: `inset 0 0 0 1px ${theme('colors.gray.300')}`,
       'border-light': `inset 0 0 0 1px ${theme('colors.gray.200')}`,
       'border-focus': `inset 0 0 0 1px ${theme('colors.primary.300')}`,
