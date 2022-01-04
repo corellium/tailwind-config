@@ -1,3 +1,21 @@
+# v1.0.18 (Tue Jan 04 2022)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of github.com:corellium/tailwind-config ([@unknown4unnamed](https://github.com/unknown4unnamed))
+- Extend box-shadow ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+#### 🔩 Dependency Updates
+
+- Bump tailwindcss from 3.0.7 to 3.0.9 [#3](https://github.com/corellium/tailwind-config/pull/3) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Vasyl Semilyak ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+---
+
 # v1.0.17 (Sun Jan 02 2022)
 
 #### ⚠️ Pushed to `main`
