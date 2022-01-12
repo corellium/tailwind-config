@@ -1,7 +1,8 @@
 {
   "name": "@corellium/tailwind-config",
   "version": "1.0.18",
-  "description": "Our very own ESLint configuration!",
+  "description": "Our very own Tailwind configuration!",
+  "prettier": "@corellium/prettier-config",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "type": "module",
@@ -35,6 +36,7 @@
     "corellium"
   ],
   "devDependencies": {
+    "@corellium/prettier-config": "^1.0.3",
     "auto": "^10.32.3",
     "rimraf": "^3.0.2",
     "rollup": "^2.63.0",

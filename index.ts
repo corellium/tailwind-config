@@ -442,46 +442,6 @@ export const config = {
             ),
             radial-gradient(at 0% 0%, hsl(343deg 100% 76% / 100%) 0, transparent 50%);`,
         },
-        '.blur-light-sm': {
-          background: 'rgba(255, 255, 255, 0.6)',
-          'backdrop-filter': theme('backdropBlur.sm'),
-        },
-        '.blur-light-md': {
-          background: 'rgba(255, 255, 255, 0.6)',
-          'backdrop-filter': theme('backdropBlur.md'),
-        },
-        '.blur-light-lg': {
-          background: 'rgba(255, 255, 255, 0.6)',
-          'backdrop-filter': theme('backdropBlur.lg'),
-        },
-        '.blur-light-xl': {
-          background: 'rgba(255, 255, 255, 0.6)',
-          'backdrop-filter': theme('backdropBlur.xl'),
-        },
-        '.blur-light-xxl': {
-          background: 'rgba(255, 255, 255, 0.6)',
-          'backdrop-filter': theme('backdropBlur.xxl'),
-        },
-        '.blur-dark-sm': {
-          background: 'rgba(52, 64, 84, 0.6)',
-          'backdrop-filter': theme('backdropBlur.sm'),
-        },
-        '.blur-dark-md': {
-          background: 'rgba(52, 64, 84, 0.6)',
-          'backdrop-filter': theme('backdropBlur.md'),
-        },
-        '.blur-dark-lg': {
-          background: 'rgba(52, 64, 84, 0.6)',
-          'backdrop-filter': theme('backdropBlur.lg'),
-        },
-        '.blur-dark-xl': {
-          background: 'rgba(52, 64, 84, 0.6)',
-          'backdrop-filter': theme('backdropBlur.xl'),
-        },
-        '.blur-dark-xxl': {
-          background: 'rgba(52, 64, 84, 0.6)',
-          'backdrop-filter': theme('backdropBlur.xxl'),
-        },
       });
     }),
   ],
