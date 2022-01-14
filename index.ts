@@ -408,34 +408,22 @@ export const config = {
       addUtilities({
         '.gradient-cool': {
           'background-color': '#9b8afb',
-          'background-image': `radial-gradient(
-            at 60% 17%,
-            hsl(196deg 99% 71% / 100%) 0,
-            transparent 44%
-          ),
-          radial-gradient(at 34% 94%, hsl(299deg 96% 75% / 100%) 0, transparent 56%),
-          radial-gradient(at 51% 41%, hsl(189deg 66% 78% / 100%) 0, transparent 49%),
-          radial-gradient(at 1% 86%, hsl(262deg 62% 63% / 100%) 0, transparent 48%),
-          radial-gradient(at 75% 99%, hsl(241deg 86% 66% / 100%) 0, transparent 54%),
-          radial-gradient(at 23% 76%, hsl(248deg 95% 64% / 100%) 0, transparent 41%),
-          radial-gradient(at 13% 56%, hsl(59deg 61% 64% / 100%) 0, transparent 42%)`,
+          'background-image': `radial-gradient(at 60% 17%, hsl(196deg 99% 71% / 100%) 0, hsl(196deg 99% 71% / 0%) 44%),
+            radial-gradient(at 34% 94%, hsl(299deg 96% 75% / 100%) 0, hsl(299deg 96% 75% / 0%) 56%),
+            radial-gradient(at 51% 41%, hsl(189deg 66% 78% / 100%) 0, hsl(189deg 66% 78% / 0%) 49%),
+            radial-gradient(at 1% 86%, hsl(262deg 62% 63% / 100%) 0, hsl(262deg 62% 63% / 0%) 48%),
+            radial-gradient(at 75% 99%, hsl(241deg 86% 66% / 100%) 0, hsl(241deg 86% 66% / 0%) 54%),
+            radial-gradient(at 23% 76%, hsl(248deg 95% 64% / 100%) 0, hsl(248deg 95% 64% / 0%) 41%),
+            radial-gradient(at 13% 56%, hsl(59deg 61% 64% / 100%) 0, hsl(59deg 61% 64% / 0%) 42%)`,
         },
         '.gradient-warm': {
           'background-color': '#f1a084',
-          'background-image': `radial-gradient(
-              at 40% 20%,
-              hsl(28deg 100% 74% / 100%) 0,
-              transparent 50%
-            ),
-            radial-gradient(at 80% 0%, hsl(189deg 100% 56% / 100%) 0, transparent 50%),
-            radial-gradient(at 0% 50%, hsl(355deg 85% 93% / 100%) 0, transparent 50%),
-            radial-gradient(
-              at 80% 50%,
-              hsl(340deg 100% 76% / 100%) 0,
-              transparent 50%
-            ),
-            radial-gradient(at 0% 100%, hsl(22deg 100% 77% / 100%) 0, transparent 50%),
-            radial-gradient(at 0% 0%, hsl(343deg 100% 76% / 100%) 0, transparent 50%);`,
+          'background-image': `radial-gradient(at 40% 20%, hsl(28deg 100% 74% / 100%) 0, hsl(28deg 100% 74% / 0%) 50%),
+            radial-gradient(at 80% 0%, hsl(189deg 100% 56% / 100%) 0, hsl(189deg 100% 56% / 0%) 50%),
+            radial-gradient(at 0% 50%, hsl(355deg 85% 93% / 100%) 0, hsl(355deg 85% 93% / 0%) 50%),
+            radial-gradient(at 80% 50%, hsl(340deg 100% 76% / 100%) 0, hsl(340deg 100% 76% / 0%) 50%),
+            radial-gradient(at 0% 100%, hsl(22deg 100% 77% / 100%) 0, hsl(22deg 100% 77% / 0%) 50%),
+            radial-gradient(at 0% 0%, hsl(343deg 100% 76% / 100%) 0, hsl(343deg 100% 76% / 0%) 50%)`,
         },
       });
     }),
