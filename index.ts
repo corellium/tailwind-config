@@ -435,11 +435,6 @@ export const config = {
               transparent 50%
             ),
             radial-gradient(at 0% 100%, hsl(22deg 100% 77% / 100%) 0, transparent 50%),
-            radial-gradient(
-              at 80% 100%,
-              hsl(242deg 100% 70% / 100%) 0,
-              transparent 50%
-            ),
             radial-gradient(at 0% 0%, hsl(343deg 100% 76% / 100%) 0, transparent 50%);`,
         },
       });
