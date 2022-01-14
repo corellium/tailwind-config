@@ -1,3 +1,28 @@
+# v1.0.19 (Fri Jan 14 2022)
+
+#### 🐛 Bug Fix
+
+- feature/sys-263-setup-tailwind-config-with-prettier [#6](https://github.com/corellium/tailwind-config/pull/6) ([@haydenbarnett](https://github.com/haydenbarnett))
+
+#### ⚠️ Pushed to `main`
+
+- Update push.yaml ([@haydenbleasel](https://github.com/haydenbleasel))
+- Create .npmrc ([@haydenbleasel](https://github.com/haydenbleasel))
+- Remove deep purple from warm gradient ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### 🔩 Dependency Updates
+
+- Bump tailwindcss from 3.0.9 to 3.0.12 [#5](https://github.com/corellium/tailwind-config/pull/5) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump rollup from 2.62.0 to 2.63.0 [#4](https://github.com/corellium/tailwind-config/pull/4) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 3
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Hayden Barnett ([@haydenbarnett](https://github.com/haydenbarnett))
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
 # v1.0.18 (Tue Jan 04 2022)
 
 #### ⚠️ Pushed to `main`
