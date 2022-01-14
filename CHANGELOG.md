@@ -1,3 +1,15 @@
+# v1.0.20 (Fri Jan 14 2022)
+
+#### 🐛 Bug Fix
+
+- fix/gradient-config [#7](https://github.com/corellium/tailwind-config/pull/7) ([@haydenbarnett](https://github.com/haydenbarnett))
+
+#### Authors: 1
+
+- Hayden Barnett ([@haydenbarnett](https://github.com/haydenbarnett))
+
+---
+
 # v1.0.19 (Fri Jan 14 2022)
 
 #### 🐛 Bug Fix
