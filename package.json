@@ -40,7 +40,7 @@
     "auto": "^10.32.6",
     "rimraf": "^3.0.2",
     "rollup": "^2.67.1",
-    "rollup-plugin-typescript2": "^0.31.1"
+    "rollup-plugin-typescript2": "^0.31.2"
   },
   "dependencies": {
     "hex-to-rgba": "^2.0.1",
