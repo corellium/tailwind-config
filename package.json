@@ -1,6 +1,6 @@
 {
   "name": "@corellium/tailwind-config",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "description": "Our very own Tailwind configuration!",
   "prettier": "@corellium/prettier-config",
   "main": "build/index.js",
