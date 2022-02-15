@@ -1,3 +1,32 @@
+# v1.0.21 (Tue Feb 15 2022)
+
+#### ⚠️ Pushed to `main`
+
+- Assign dependabot PRs to @haydenbarnett ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### 🔩 Dependency Updates
+
+- Bump rollup from 2.67.1 to 2.67.2 [#19](https://github.com/corellium/tailwind-config/pull/19) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump tailwindcss from 3.0.19 to 3.0.22 [#20](https://github.com/corellium/tailwind-config/pull/20) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump rollup-plugin-typescript2 from 0.31.1 to 0.31.2 [#18](https://github.com/corellium/tailwind-config/pull/18) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump rollup from 2.66.1 to 2.67.1 [#17](https://github.com/corellium/tailwind-config/pull/17) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump tailwindcss from 3.0.18 to 3.0.19 [#16](https://github.com/corellium/tailwind-config/pull/16) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump tailwindcss from 3.0.16 to 3.0.18 [#14](https://github.com/corellium/tailwind-config/pull/14) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump rollup from 2.66.0 to 2.66.1 [#15](https://github.com/corellium/tailwind-config/pull/15) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump typescript from 4.5.4 to 4.5.5 [#13](https://github.com/corellium/tailwind-config/pull/13) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump rollup from 2.64.0 to 2.66.0 [#12](https://github.com/corellium/tailwind-config/pull/12) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump auto from 10.32.5 to 10.32.6 [#11](https://github.com/corellium/tailwind-config/pull/11) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump tailwindcss from 3.0.15 to 3.0.16 [#10](https://github.com/corellium/tailwind-config/pull/10) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump rollup from 2.63.0 to 2.64.0 [#8](https://github.com/corellium/tailwind-config/pull/8) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump tailwindcss from 3.0.12 to 3.0.15 [#9](https://github.com/corellium/tailwind-config/pull/9) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
 # v1.0.20 (Fri Jan 14 2022)
 
 #### 🐛 Bug Fix
