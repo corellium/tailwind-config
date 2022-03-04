@@ -39,7 +39,7 @@
     "@corellium/prettier-config": "^1.0.3",
     "auto": "^10.32.6",
     "rimraf": "^3.0.2",
-    "rollup": "^2.68.0",
+    "rollup": "^2.69.0",
     "rollup-plugin-typescript2": "^0.31.2"
   },
   "dependencies": {
