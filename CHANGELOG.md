@@ -1,3 +1,23 @@
+# v1.0.22 (Mon Mar 14 2022)
+
+#### ⚠️ Pushed to `main`
+
+- Update mono colour palette for accessibility ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### 🔩 Dependency Updates
+
+- Bump rollup from 2.68.0 to 2.69.0 [#24](https://github.com/corellium/tailwind-config/pull/24) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump typescript from 4.5.5 to 4.6.2 [#25](https://github.com/corellium/tailwind-config/pull/25) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump tailwindcss from 3.0.22 to 3.0.23 [#21](https://github.com/corellium/tailwind-config/pull/21) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump rollup from 2.67.2 to 2.68.0 [#23](https://github.com/corellium/tailwind-config/pull/23) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
 # v1.0.21 (Tue Feb 15 2022)
 
 #### ⚠️ Pushed to `main`
