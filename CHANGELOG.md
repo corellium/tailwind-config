@@ -1,3 +1,16 @@
+# v1.0.24 (Thu Mar 31 2022)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of github.com:corellium/tailwind-config ([@unknown4unnamed](https://github.com/unknown4unnamed))
+- README.md updated ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+#### Authors: 1
+
+- Vasyl Semilyak ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+---
+
 # v1.0.23 (Thu Mar 31 2022)
 
 #### ⚠️ Pushed to `main`
