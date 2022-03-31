@@ -1,3 +1,22 @@
+# v1.0.23 (Thu Mar 31 2022)
+
+#### ⚠️ Pushed to `main`
+
+- Added line-clamp plugin ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+#### 🔩 Dependency Updates
+
+- Bump auto from 10.34.1 to 10.36.5 [#29](https://github.com/corellium/tailwind-config/pull/29) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump auto from 10.32.6 to 10.34.1 [#26](https://github.com/corellium/tailwind-config/pull/26) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump rollup from 2.69.0 to 2.70.1 [#28](https://github.com/corellium/tailwind-config/pull/28) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Vasyl Semilyak ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+---
+
 # v1.0.22 (Mon Mar 14 2022)
 
 #### ⚠️ Pushed to `main`
