@@ -1,6 +1,7 @@
 import hexToRGBA from 'hex-to-rgba';
 // NOTE: Need to add .js to fix the issue
 import plugin from 'tailwindcss/plugin.js';
+import lineClampPlugin from '@tailwindcss/line-clamp';
 
 export const config = {
   theme: {
@@ -427,6 +428,7 @@ export const config = {
         },
       });
     }),
+    lineClampPlugin,
   ],
 };
 
