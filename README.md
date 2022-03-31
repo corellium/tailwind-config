@@ -22,7 +22,7 @@ In your project root create `tailwind.config.js` file and add theme to the confi
 
 ```js
 const {
-  config: { theme },
+  config: { theme, plugins },
 } = require('@corellium/tailwind-config');
 
 module.exports = {
@@ -32,6 +32,8 @@ module.exports = {
   content: [
     // https://tailwindcss.com/docs/content-configuration
   ],
+  // https://tailwindcss.com/docs/configuration#plugins
+  plugins,
   // Rest of your configuration:
   // https://tailwindcss.com/docs/configuration
 };
