@@ -39,7 +39,7 @@
     "@corellium/prettier-config": "^1.0.3",
     "@rollup/plugin-commonjs": "^21.0.3",
     "@tailwindcss/line-clamp": "^0.3.1",
-    "auto": "^10.36.5",
+    "auto": "^10.37.0",
     "rimraf": "^3.0.2",
     "rollup": "^2.70.1",
     "rollup-plugin-typescript2": "^0.31.2"
