@@ -1,3 +1,25 @@
+# v1.0.25 (Thu Jun 02 2022)
+
+#### 🐛 Bug Fix
+
+- feat(config): Add typography plugin [#45](https://github.com/corellium/tailwind-config/pull/45) ([@haydenbarnett](https://github.com/haydenbarnett))
+
+#### ⚠️ Pushed to `main`
+
+- Replace corellium/prettier with harmony ([@haydenbarnett](https://github.com/haydenbarnett))
+
+#### 🔩 Dependency Updates
+
+- Bump typescript from 4.6.3 to 4.6.4 [#36](https://github.com/corellium/tailwind-config/pull/36) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump typescript from 4.6.2 to 4.6.3 [#30](https://github.com/corellium/tailwind-config/pull/30) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Hayden Barnett ([@haydenbarnett](https://github.com/haydenbarnett))
+
+---
+
 # v1.0.24 (Thu Mar 31 2022)
 
 #### ⚠️ Pushed to `main`
