@@ -40,7 +40,7 @@
     "@rollup/plugin-commonjs": "^22.0.0",
     "@tailwindcss/line-clamp": "^0.3.1",
     "@tailwindcss/typography": "^0.5.2",
-    "auto": "^10.36.5",
+    "auto": "^10.37.1",
     "rimraf": "^3.0.2",
     "rollup": "^2.75.5",
     "rollup-plugin-typescript2": "^0.32.0"
