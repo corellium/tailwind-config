@@ -1,3 +1,29 @@
+# v1.0.26 (Wed Jun 15 2022)
+
+#### ⚠️ Pushed to `main`
+
+- Fix type issue ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+#### 🔩 Dependency Updates
+
+- Bump rollup from 2.75.5 to 2.75.6 [#49](https://github.com/corellium/tailwind-config/pull/49) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump tailwindcss from 3.0.24 to 3.1.2 [#50](https://github.com/corellium/tailwind-config/pull/50) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump rollup-plugin-typescript2 from 0.32.0 to 0.32.1 [#51](https://github.com/corellium/tailwind-config/pull/51) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @tailwindcss/line-clamp from 0.3.1 to 0.4.0 [#37](https://github.com/corellium/tailwind-config/pull/37) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump auto from 10.36.5 to 10.37.1 [#42](https://github.com/corellium/tailwind-config/pull/42) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump rollup from 2.70.1 to 2.75.5 [#46](https://github.com/corellium/tailwind-config/pull/46) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump typescript from 4.6.4 to 4.7.3 [#48](https://github.com/corellium/tailwind-config/pull/48) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @rollup/plugin-commonjs from 21.0.3 to 21.1.0 [#33](https://github.com/corellium/tailwind-config/pull/33) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump rollup-plugin-typescript2 from 0.31.2 to 0.32.0 [#47](https://github.com/corellium/tailwind-config/pull/47) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump tailwindcss from 3.0.23 to 3.0.24 [#32](https://github.com/corellium/tailwind-config/pull/32) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Vasyl Semilyak ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+---
+
 # v1.0.25 (Thu Jun 02 2022)
 
 #### 🐛 Bug Fix
