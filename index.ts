@@ -389,11 +389,11 @@ export const config = {
         },
         html: {
           'box-sizing': 'border-box',
-          'line-height': 1.15,
+          'line-height': '1.15',
           'text-size-adjust': '100%',
         },
         body: {
-          margin: 0,
+          margin: '0',
           color: theme('colors.gray.900'),
           'font-family': theme('fontFamily.text'),
           '-webkit-font-smoothing': 'antialiased',
