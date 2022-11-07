@@ -39,7 +39,7 @@
     "@haydenbleasel/harmony": "^1.0.20",
     "@rollup/plugin-commonjs": "^22.0.1",
     "@tailwindcss/line-clamp": "^0.4.0",
-    "@tailwindcss/typography": "^0.5.4",
+    "@tailwindcss/typography": "^0.5.8",
     "auto": "^10.37.2",
     "rimraf": "^3.0.2",
     "rollup": "^2.77.0",
